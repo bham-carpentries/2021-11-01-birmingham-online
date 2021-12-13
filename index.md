@@ -357,7 +357,7 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-The course will run from 9.30am to 12.30am and then from 1.30pm to 4.30pm.
+The course will run from 9.30am to 12.30am on both days.
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
